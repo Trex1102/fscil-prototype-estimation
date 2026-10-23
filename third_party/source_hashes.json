@@ -1,0 +1,23 @@
+{
+  "implementation_sha256": {
+    "geometry.py": "46f1cf4fd318d4d79ee65bf8df50a928ab30ac3e0ad30c6d880b69725722a5e7",
+    "radial_selection.py": "bc0297be4212bd6901bb71b33d958d93df94ee177a1e859d3ec3cca38331e877",
+    "qpr_calibration.py": "112817338ade1fde5b30d241a9dd9345ddecff96c0fff50b19bfb53836196144",
+    "qpr_selection.py": "fa38e018adc614b99443abc46838a56b7db983bd370f51dfa5a1637c4b1ad8ff",
+    "qpr_self_exclusion.py": "d0e2a8487fcc0b0cf3a612cad2401f54aed9518768c97e84afb38a27cf3a4efa",
+    "transductive_methods.py": "1f3bba93f1af023850a5ec25af81968ac200fe0a17c3ea81fd2011c058383c44",
+    "baseline_methods.py": "37d1f5260ff96e7dda8fc65c4014814c916e0f8954bfd27d1bef80dc321c0284",
+    "diagnostics.py": "d78ac7e03994eab04a95c94646ffa9d88f73143677d6cc5eb9cb24557d332784",
+    "target_data.py": "51b1934bf074d357d90cab537cacf4a671522733abd59a387546275b9dc0dabe",
+    "selection.py": "8214fe7fa6cc5f3943b4ff338fbf2a397586eb3549f7048aa728f1ce8c02b815",
+    "constants.py": "3e26aa2163d40bd43da7c99c6314fb4ea07b708c52a8a2b531d2a57f925872b8",
+    "randumb_ncm.py": "23e488ac56c06e18b2745ef0d2bf54c4f77bae3ffe4332d88c6fbb83b6f1851b",
+    "ranpac_projection.py": "dc1052fa117814b8339b1657f34682276272c642a0fda79cdfd8e6a0593c96b4",
+    "cumulative_radial_selection.py": "657f214eec7e315e53ff2b2f5a38b7fa0c9cb7ffe0a8ed1cbd1e513aec0ce87c",
+    "global_radial_selection.py": "84e0fa5b6205fd09cf6f5fef7ea86b963ec974a1f5451bdcf7f9f3af0cd6bdba",
+    "run_qpr_self_exclusion.py": "a89a348b0befff467d04720733c2d23aa57838c39ac4bf46a20160963c99cd66",
+    "run_radial_inductive.py": "83e80a04b30634f92444a243b6537c94d5960e6f5247699cf23824d5cc7f658c",
+    "run_qpr_ablation.py": "e3f2d6dd00d97d1d40502db6bb51e38b5a3a4156bdc6b0deb50031f97c923568"
+  },
+  "tokenizer_sha256": "924691ac288e54409236115652ad4aa250f48203de50a9e4722a6ecd48d6804a"
+}
