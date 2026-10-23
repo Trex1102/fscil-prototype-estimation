@@ -87,3 +87,7 @@ Every module below supports `python -m fscil.MODULE --help`. Use the generated f
 `python verify.py` checks source integrity and runs the tests for the estimators, selection rules, information boundaries, comparator geometry, self-exclusion, data protocols, and reproduction commands. Tests use synthetic inputs and do not require image datasets.
 
 The legacy trainer config filename `bimc_dino_fusion.yaml` supplies dataset/loader settings only. These runners use frozen visual encoders and do not execute a DINOv2 or text-calibration model. CLIP's license is retained in `third_party/CLIP-LICENSE`.
+
+## Acknowledgements
+
+We thank the authors of [CLIP](https://github.com/openai/CLIP), [BiMC](https://github.com/yychen016/BiMC), [MAE](https://github.com/facebookresearch/mae), [timm](https://github.com/huggingface/pytorch-image-models), [TEEN](https://github.com/wangkiw/TEEN), [ULA](https://github.com/sungwon-woo/ULA), [FeCAM](https://github.com/dipamgoswami/FeCAM), [FSCIL-Calibration](https://github.com/dipamgoswami/FSCIL-Calibration), [RanPAC](https://github.com/McDonnell-Research-Lab/RanPAC), [RanDumb](https://github.com/drimpossible/RanDumb), [TIM](https://github.com/mboudiaf/TIM), [LaplacianShot](https://github.com/imtiazziko/LaplacianShot), [ProtoLP](https://github.com/allenhaozhu/protoLP), and [PT-MAP](https://github.com/yhu01/PT-MAP) for making their repositories publicly available.
